@@ -10,3 +10,10 @@ Implementation of Seam Carving algorithm in Java
 ![Screenshot](screenshots/home.png)
 ![Screenshot](screenshots/resize_running.png)
 ![Screenshot](screenshots/resize_finished.png)
+
+## Running the project
+
+To run the project from the command line, go to the dist folder and
+type the following or directly double click on the file:
+
+java -jar "SeamCarver.jar"
