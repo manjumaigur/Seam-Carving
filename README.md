@@ -1,5 +1,5 @@
 # Seam-Carving
-Implementation of Seam Carving algorithm in Java
+Implementation of [Seam Carving algorithm](https://inst.eecs.berkeley.edu/~cs194-26/fa16/hw/proj4-seamcarving/imret.pdf) in Java
 
 ## Features
 * Implemented Seam Carving algorithm in Java. 
